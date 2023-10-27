@@ -1,0 +1,17 @@
+Software outline
+
+
+Websites
+https://ctt-group.co.uk/
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://ctt-group.co.uk/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/accountancy/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/private-client/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/legal/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/professional-services/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/tax-trust/sitemap_index.xml
+Sitemap: https://ctt-group.co.uk/legacy-software/sitemap_index.xml
+
+key store
+https://github.com/michaelm-ctt-group/apikeys
